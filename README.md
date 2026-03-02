@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hello world 👋
+
+I'm a coder learning hot to be a good software developer, with good practices and a good logic.
+
+i like python, i think it's a very strong leanguage to do whatever you want, i know some basic things about it. I'm interested in learn kotlin,FLutter and Swift for mobile development.
+
 
 <!--
 **Maru-rc/Maru-rc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
