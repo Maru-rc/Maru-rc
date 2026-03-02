@@ -7,7 +7,7 @@ i like python, i think it's a very strong leanguage to do whatever you want, i k
 - 🔭 I’m currently working on my personal goals.
 - 🌱 I’m currently learning Python and kotlin.
 - 💬 Ask me about Videogames and UFC.
-- ⚡ Fun fact: i love the videogame THe last of us, for me it's the best thing soemeone create ever.
+- ⚡ Fun fact: i love the videogame THe last of us, for me it's the best thing soemeone ever create.
 
 <!--
 **Maru-rc/Maru-rc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
