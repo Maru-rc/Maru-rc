@@ -1,8 +1,8 @@
 ## Hello world 👋
 
-I'm a coder learning hot to be a good software developer, with good practices and a good logic.
+I'm a coder learning how to be a good software developer, with good practices and a good logic.
 
-i like python, i think it's a very strong leanguage to do whatever you want, i know some basic things about it. I'm interested in learn kotlin,FLutter and Swift for mobile development.
+I like python, i think it's a very strong language to do whatever you want, i know some basic things about it. I'm interested in learning kotlin,FLutter and Swift for mobile development.
 
 - 🔭 I’m currently working on my personal goals.
 - 🌱 I’m currently learning Python and kotlin.
