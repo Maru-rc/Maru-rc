@@ -4,6 +4,10 @@ I'm a coder learning hot to be a good software developer, with good practices an
 
 i like python, i think it's a very strong leanguage to do whatever you want, i know some basic things about it. I'm interested in learn kotlin,FLutter and Swift for mobile development.
 
+- 🔭 I’m currently working on my personal goals.
+- 🌱 I’m currently learning Python and kotlin.
+- 💬 Ask me about Videogames and UFC.
+- ⚡ Fun fact: i love the videogame THe last of us, for me it's the best thing soemeone create ever.
 
 <!--
 **Maru-rc/Maru-rc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
